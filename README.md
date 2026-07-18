@@ -39,3 +39,14 @@ print(df.head())
 **Maintainer**
 
 - Repository: this workspace
+
+
+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
+
+https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct
+https://huggingface.co/google/gemma-3-4b-it
+https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507
+
+
+qwen/qwen3-8b
+sk-ws-H.XHIYMD.i4F7.MEYCIQDNqbJsS6LnfkSaEiA2D4HNRueh4YJvYfLqY8YueNS70wIhAI_cKpmFonfvjrOTU_2XC3sw2vkiNSBLpPcKHAJzMhUd
